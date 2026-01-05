@@ -1,4 +1,5 @@
 João Guilherme da S. Filho
+
 Data Scientist (in progress) | Data Analyst | Business Intelligence
 
 📍 Dublin, Ireland
