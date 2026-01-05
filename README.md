@@ -1,10 +1,13 @@
-João Guilherme da S. Filho
+##João Guilherme da S. Filho
 
 Data Scientist (in progress) | Data Analyst | Business Intelligence
 
 📍 Dublin, Ireland
+
 ☁️ AWS Cloud Analytics (Foundational)
+
 📊 Data-driven problem solving in complex environments
+
 🛂 Full-time work authorisation in Ireland (Stamp 1G)
 
 👋 About Me
